@@ -15,10 +15,3 @@ Features:
 - Customize the start and end job locations easily in config.lua.
 
 Script is now Availiable in Both ESX & QB-Core!
-
-Github link to that Job
-https://github.com/HypnoticGD/Gardening Have fun with it.
-CFX Post
-https://forum.cfx.re/t/free-qbcore-hpngd-gardening/5271286
-Preview
-https://www.youtube.com/watch?v=aScWYSiZK0I
